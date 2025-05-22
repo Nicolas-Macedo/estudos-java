@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class App {
+public class advinha {
     public static void main(String[] args) {
         // Cria um jogo de adivinhação
         Random aleRandom = new Random();
